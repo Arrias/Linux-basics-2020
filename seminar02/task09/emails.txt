@@ -1,7 +1,0 @@
-joe@aol.com
-joe@wrox.co.uk
-oe@domain.info
-a@b
-notanemail
-joe@@
-1234
