@@ -1,13 +1,47 @@
 # print your command here
 
-a. git init ...
+a.)
+git init 
 
-b.
+b.) 
+> bio.md # заполняю его
+> main.cpp # заполняю его
+git add .
+git commit 
 
-c.
+c.)
+> Makefile # заполняю его
+make run
+> .gitignore 
+vim .gitignore #указываю там бинарник, созданный make'ом
+git add .
+git commit 
 
-d.
+d.)
+git add . #делаю изменения
+git commit 
+git add . #делаю изменения
+git commit 
+git add . #делаю изменения 
+git commit 
 
-e.
+e.)
+git log
+git checkout 9c9a9a4946fdf25cff2322a98283ebd44ab091e0
+rm Makefile
+touch CMakeLists.txt
+CMakeLists:
+```
+cmake_minimum_required(VERSION 3.16)
+project(Proj)
 
-f.
+set(CMAKE_CXX_STANDARD 17)
+set(SRC main.cpp)
+set(RUN main)
+add_executable(${RUN} ${SRC})
+```
+
+f.)
+git checkout master
+git merge cmake
+

@@ -1,0 +1,51 @@
+fix task 5
+add task for seminar 5
+add hw5
+remove extra
+fix test 6
+update README
+fix test 5
+fix test5
+fix test 6
+update instruction
+add task 3.7
+Add task 3.7
+update tasks
+add tasks
+fix test 8
+add checker for seminar 3
+add workflow
+Add 3.6
+Add task 3.4
+fix test 5
+rename
+swap tasks 4, 5
+Add task 3.4
+Add task 3.3
+Add task 3.2
+Add task 3.1
+fix test 8
+fix test 7
+fix test 6
+fix readme
+Fix checker
+Add test 5
+Add bash
+Add checker
+Fix task 8
+Add task 9
+Add task 8
+Add task 7
+Fix test class name
+Add task 5,6
+Fix task 4
+Add task 4
+Add task 2
+Add first task
+add example of task
+update README.md
+remove strange phrase
+Format of checking hw
+fix dir name
+add first task
+Initial commit
